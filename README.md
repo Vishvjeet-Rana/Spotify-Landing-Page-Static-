@@ -4,7 +4,7 @@ This project is purely based on my learning of wev dev.
 
 # Technology used
 
-HTML & CSSS
+HTML & CSS
 
 # Developed by
 
